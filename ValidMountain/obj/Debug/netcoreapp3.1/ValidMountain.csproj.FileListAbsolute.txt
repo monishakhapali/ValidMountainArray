@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\ValidMountain\ValidMountain\bin\Debug\netcoreapp3.1\ValidMountain.exe
+C:\Users\monisha.khapali\source\repos\ValidMountain\ValidMountain\bin\Debug\netcoreapp3.1\ValidMountain.deps.json
+C:\Users\monisha.khapali\source\repos\ValidMountain\ValidMountain\bin\Debug\netcoreapp3.1\ValidMountain.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\ValidMountain\ValidMountain\bin\Debug\netcoreapp3.1\ValidMountain.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\ValidMountain\ValidMountain\bin\Debug\netcoreapp3.1\ValidMountain.dll
+C:\Users\monisha.khapali\source\repos\ValidMountain\ValidMountain\bin\Debug\netcoreapp3.1\ValidMountain.pdb
+C:\Users\monisha.khapali\source\repos\ValidMountain\ValidMountain\obj\Debug\netcoreapp3.1\ValidMountain.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\ValidMountain\ValidMountain\obj\Debug\netcoreapp3.1\ValidMountain.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\ValidMountain\ValidMountain\obj\Debug\netcoreapp3.1\ValidMountain.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\ValidMountain\ValidMountain\obj\Debug\netcoreapp3.1\ValidMountain.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\ValidMountain\ValidMountain\obj\Debug\netcoreapp3.1\ValidMountain.dll
+C:\Users\monisha.khapali\source\repos\ValidMountain\ValidMountain\obj\Debug\netcoreapp3.1\ValidMountain.pdb
+C:\Users\monisha.khapali\source\repos\ValidMountain\ValidMountain\obj\Debug\netcoreapp3.1\ValidMountain.genruntimeconfig.cache
